@@ -77,7 +77,7 @@ This document details the complete relocation and infrastructure refresh of our 
 
 ## 📁 Files
 
-- [`relocation-document.pdf`](./relocation-document.pdf) - Official project documentation
+- [`relocation-document.pdf`](./suite-relocation-2025.pdf) - Official project documentation
 - [`README.md`](./README.md) - This file
 
 ## 🏆 Project Outcome
