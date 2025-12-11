@@ -6,6 +6,7 @@
 **Project:** Physical Relocation & Infrastructure Refresh – Suite A → Suite B  
 **Location:** Texas, USA  
 **Author:** Charlie Hofner  
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/charlie-hofner/)  
 **Date:** December 10, 2025  
 
 ## 📋 Executive Summary
